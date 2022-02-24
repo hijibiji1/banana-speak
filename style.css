@@ -1,0 +1,7 @@
+textarea {
+  width: 90%;
+  height: 80px;
+  border: solid red;
+  border-radius: 5px;
+  align-items: center;
+}
