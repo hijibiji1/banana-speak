@@ -1,6 +1,6 @@
 # [Minion Banana Speak](https://minionbananatrans.netlify.app)
 
-![Screenshot 2022-03-04 004057](https://github.com/hijibiji1/banana-speak/blob/main/images/minion.png)
+![Screenshot 2022-03-04 004057](https://github.com/hijibiji1/banana-speak/blob/main/Talk%20Banana.png)
 
  An application using vanilaJS that translate your English language into banana language using [API](https://api.funtranslations.com/translate/minion.json).
  
