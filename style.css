@@ -26,9 +26,9 @@ body {
 }
 
 .hero-image {
-  padding-right: 5rem;
+  padding: 2% 5%;
   height: 450px;
-  overflow: visible;
+  overflow: hidden;
 }
 
 .main {
